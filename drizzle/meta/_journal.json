@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1710267110565,
+      "tag": "0000_late_maria_hill",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1710267323516,
+      "tag": "0001_lively_thunderbird",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1710269022967,
+      "tag": "0002_past_warstar",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1710526446114,
+      "tag": "0003_opposite_morlun",
+      "breakpoints": true
+    }
+  ]
+}
