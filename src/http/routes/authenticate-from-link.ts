@@ -3,7 +3,7 @@ import { db } from '../../db/connection'
 import dayjs from 'dayjs'
 import { auth } from '../auth'
 
-export const authenticateFromLink = new Elysia().use(auth).get(
+export const authenticateFromLink = new Elysia().get(
   '/auth-links/authenticate',
   async ({ query }) => {
     const { code, redirect } = query
